@@ -1,0 +1,50 @@
+14janq1:	#Enter 15 numbers by user in a list and then find if a number (also entered by user) is in the list or not
+14janq2:	#Input a matrix from user and find the sum of diagonal elements.
+14janq3:	#Input two matrices from the user, perform addition if possible and then print the final matrix
+14janq4:	#Input a matrix from user and print the transpose of that matrix.
+14janq5:	#Matrix Multiplication(Input two matrices from a user, perform matrix multiplication if possible,then print the final matrix)
+
+15janq1:	#Input a number from user and print in word(Ex: 1234=>OneTwoThreeFour)
+
+16janq1:	#Program to input name and age from user and print acoording to this:Ex:Jatin Sharma 20 ;Code1:js20;Code2:tr40(middle charavters and double the age)
+16janq2:	#Input a sentence from user and print Smallest and Largest word,number of vowels,consonants,white spaces and digits
+16janq3:	#Count the numbers of characters in a string and store in dictionary.Also display list of keys in descending order
+16janq4:	#Find if the date entered by user is present in dictionary or not
+
+17jan:	(Didn't have any assignment)
+
+20janq1:	#Nested Dictionary,Inserting element in different ways.Then removing elements.
+20janq2:	#Input 2 numpy arrays and do operations: a*b , a.dot(b)
+20janq3:	#Matrix questions using numpy arrays: transpose,multiply and addition
+
+21janq1:	#function to find factorial of a number
+21janq2:	#Function to find if the number is even or odd
+21janq3:	#Function to find marks from the user and display grades
+21janq4:	#Find cube,fourth power and square root of the number
+21janq5:	#Anonymous function to find the largest number
+21janq6:	#Given a list of numbers,find numbers divisible by 7
+21janq7:	#Given a list of strings,find palindromes
+
+22janq1:	#Given a list of fruits,transform it into list with Titlecase using lambda fnc and normal fnc
+22janq2:	#Given a tuple of temp,change it from F to C and vice versa
+
+23janq3:	#Create a class student;attributes:name,marks;functions:totalscore(),avgscore(),getName(),__str__(),Enter the number of subjects(each subject is of 100 marks)
+
+28janq1:	#Write a program to print each line of a file in reverse order
+28janq2:	#WAP to compute the number of characters,words and lines in the file
+28janq3:	#WAP which takes a list of six names and store them in a file and then check if the names are stored in six different lines
+28janq4:	#Create a file which consists of a lsit of first names of students,read from the file,sort the names and write it into a new file and check if the names are sorted.
+
+29janq1:	#Extract all course numbers,course codes,course names from text='''101 COM computers
+						205 MAT Mathematics
+						189 ENG English'''
+29janq2:	#Any character except for a new line
+	#Contains a period
+	#Anything except a digit
+	#Any character including digits
+	#Anything but a character
+	#Collection of characters
+	#Match something upto n times
+29janq3:	#Check if its a valid email or not
+
+30janq1:	#WAP to create 2 threads A and B,A prints names of fruits every 1 sec,B prints an alphabet every 1 sec,main thread prints numbers from 1 to 10 every 2 sec
